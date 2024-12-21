@@ -8,6 +8,8 @@ The **Educational Tool Review Rewards** platform is a decentralized application 
 
 ## Contract Address:
 0xc11882713dfc77b0d8507e4eb0435e632f5eedcd
+![image](https://github.com/user-attachments/assets/09fbaccf-2b70-45b4-a341-bc3127d7ec5c)
+
 
 ## Project Vision:
 The platform aims to foster community-driven reviews of educational tools and apps, incentivizing users to engage and contribute to the platform by sharing their experiences. This ecosystem ensures that high-quality, verified reviews get rewarded, and it promotes transparency and trust in the educational app marketplace.
